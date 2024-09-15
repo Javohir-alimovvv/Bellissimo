@@ -1,3 +1,15 @@
+const kirishEL = document.querySelector(".kirish")
+
+function kirishEl() {
+    kirishEL.style.display = "block";
+}
+function chiqishEl() {
+    kirishEL.style.display = "none";
+}
+
+
+
+
 // 1#
 
 // function reverseWords(str) {
